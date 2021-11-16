@@ -1,7 +1,7 @@
 # multinode-kafka-cluster
 
 #### kafka-cluster
-##### Kafka Service Ports
+##### Kafka(broker) Service Ports
 - default port : 9092
 
 ##### ZooKeeper Service Ports
