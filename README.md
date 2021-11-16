@@ -2,7 +2,7 @@
 
 kafka-cluster
 - Kafka Service Ports
-default port : 9092
+-- default port : 9092
 
 - ZooKeeper Service Ports
 clientPort : 2181
